@@ -177,12 +177,12 @@ function validate(){
   <TR>
                                                                     <Th bgcolor="Beige" align="left">Bank A/C No.</th>
                                                                      <TD>
-                                                                       <INPUT type="text" style="background-color: PowderBlue;font-weight: bold;border: 0;" name="acc" size="25" value="HDFC 50100136617757" required>
+                                                                       <INPUT type="text" style="background-color: PowderBlue;font-weight: bold;border: 0;" name="acc" size="25" value="Bank Account Number" required>
                                                                          </TD>
                                                                           </TR>
               <tr>
                    <th bgcolor="Beige" align="left">Manager</th>
-                  <td colspan=3><input type="text" style="background-color: PowderBlue;font-weight: bold;border: 0;" name="mname" size="25" value="Rajeev Sharma" required>
+                  <td colspan=3><input type="text" style="background-color: PowderBlue;font-weight: bold;border: 0;" name="mname" size="25" value="Managerś name" required>
                   </td>
                </tr>
 
