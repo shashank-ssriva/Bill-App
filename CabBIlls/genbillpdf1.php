@@ -240,5 +240,5 @@ $pdf->SetY(260);
 $pdf->SetX(140);
 
 $pdf->Cell(50,6,'['.$name.']',0,0,'C');
-$pdf->Output($name.'_cabBill.pdf','D');
+$pdf->Output($name.'-'.$pmtdt.'_Expense Claim-Cab Charges.pdf','D');
 ?>
